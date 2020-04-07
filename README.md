@@ -150,3 +150,13 @@ Installation
 
 <br>
 > For a more detailed installation check the [Wiki section.](https://github.com/PhilipHaglund/ADCS/wiki/Detailed-Installation-instructions)
+
+Some More References:
+CA setup
+https://vmlabblog.com/2019/09/setup-server-2019-enterprise-ca-1-5-overview/
+https://mizitechinfo.wordpress.com/2013/08/29/step-by-step-deploying-a-standalone-root-ca-in-server-2012-r2-part-1/
+
+Auto enrolment Templates
+https://docs.druva.com/Knowledge_Base/inSync/How_To/How_to_set_up_automatic_certificate_enrollment_in_Active_Directory
+
+ 
